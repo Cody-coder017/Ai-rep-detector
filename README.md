@@ -1,1 +1,2 @@
-# Ai-rep-detector
+# 
+Ai-Powered-Gym-Trainer
