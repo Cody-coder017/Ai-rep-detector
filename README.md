@@ -1,2 +1,2 @@
-# Ai-Powered-Gym-Trainer
+# GymAI
 Report of the Project attached as a pdf file
